@@ -141,5 +141,37 @@ Neste vídeo apresento:
 
 ---
 
-## 📌 Estrutura do Repositório
+## 💼 Aplicação Profissional
+
+Este projeto demonstra capacidade de:
+
+- Traduzir dados financeiros em indicadores estratégicos
+- Criar dashboards executivos
+- Estruturar análises claras
+- Apoiar decisões baseadas em dados
+- Comunicar resultados de forma objetiva
+
+---
+
+## 👤 Autor
+
+**José Valdir Calixto**  
+Analista de Dados / Business Intelligence  
+
+🔗 Repositório:  
+https://github.com/josevaldircalixto/criando_um_fluxo_de_caixa_completo_com_power_bi  
+
+🔗 Portfólio:  
+https://portfolio-jvc.vercel.app/  
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/josevaldircalixto  
+
+🔗 YouTube:  
+https://www.youtube.com/channel/UCwm1ofyXqb8x6AxHXJVa-zw  
+
+---
+
+📊 Projeto desenvolvido para fortalecer portfólio em Análise de Dados, BI e interpretação financeira estratégica.
+
 
